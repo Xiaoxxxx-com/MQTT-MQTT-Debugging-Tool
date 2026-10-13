@@ -1,0 +1,4 @@
+# MQTT 调试上位机依赖
+#
+# 唯一必需的第三方库就是 paho-mqtt；界面用 Python 自带的 tkinter。
+paho-mqtt>=1.6.1
